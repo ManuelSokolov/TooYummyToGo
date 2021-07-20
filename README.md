@@ -1,6 +1,6 @@
 # TooYummyToGo
 
-Esta aplicação permite que os utilizadores criem conta e façam login, bem como pesquisem que comerciantes existem, e encomendar vários produtos desse comerciante para recolher mais tarde. Cabe aos comerciantes confirmarem que entregaram a encomenda de cada utilizador no momento da recolha.
+This application allows users to create an account and login, as well as search which merchants exist, and order various products from that merchant to collect later. It is up to merchants to confirm that they have delivered each user's order at the time of approval.
 
-Trabalho da cadeira de DCO da Faculdade de ciencias da universidade de Lisboa (FCUL)
+Work of the chair of DCO of the Faculty of Sciences of the University of Lisbon (FCUL)
 
